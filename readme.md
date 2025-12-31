@@ -1,3 +1,5 @@
+If you enjoy this project please consider: https://ko-fi.com/intervein
+
 # Nexus Direct to Download Manager (NXM Direct)
 
 A lightweight browser extension designed to standardize the download experience on Nexus Mods. This utility ensures that even files designated as "Manual Only" can be sent directly to your configured Mod Manager (such as Mod Organizer 2 or Vortex) with a single click.  This is mainly to supply proper metadata for mod manager usage and does not supply a "free", "fast" or "premium" download service.  This small tool will provide some essential data for modlist makers, maintainers and enthusiasts. 
@@ -43,3 +45,4 @@ No Derivatives: Distribution of modified versions of this source code is prohibi
 Non-Commercial: This utility may not be used for commercial purposes or financial gain.
 
 Disclaimer: Nexus Mods Direct to Download Manager is an independent development and is not affiliated with, authorized, or endorsed by Nexus Mods or Black Tree Gaming Ltd.
+
