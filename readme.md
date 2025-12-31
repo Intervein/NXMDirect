@@ -43,5 +43,3 @@ No Derivatives: Distribution of modified versions of this source code is prohibi
 Non-Commercial: This utility may not be used for commercial purposes or financial gain.
 
 Disclaimer: Nexus Mods Direct to Download Manager is an independent development and is not affiliated with, authorized, or endorsed by Nexus Mods or Black Tree Gaming Ltd.
-
-Source code is available at: https://github.com/Intervein/NexusModsDirectDownload
